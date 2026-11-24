@@ -16,7 +16,7 @@
     align-items: center;
     padding: 10px;
     border-radius: 10px;
-    margin: 62px;
+    margin: 67px;
     flex: fixed;
 }
 .hero-section{
@@ -288,16 +288,16 @@ margin-top: 20px;
     background-color: maroon;
     text-align: center;
     align-items: center;
-    color: white;
+    color: rgb(15, 13, 13);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     height: 200px;
     margin-top: 100px;
 }
 .contuct-container{
-     background-color: w;
+     background-color: wheat;
     display: flex;
     flex-direction: row;
-    
+    color: #080805;
 
 }
 .contuct-info{
@@ -482,7 +482,7 @@ body {
         rgba(0, 0, 0, 0.55),
         rgba(0, 0, 0, 0.55)
     ),
-    url("/images/menu background.jpg");
+    url("/images/biriyani\ chicken.jpg");
 
     background-size: cover;
     background-position: center;
